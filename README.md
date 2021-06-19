@@ -1,0 +1,2 @@
+For this project, the goal is to create a game of Rock Paper Scissors that prompts input from the user, who battles the computer. It plays 5 rounds and announces the winner.
+I hope to be able to better understand if else statements and for loops after completing this assignment. To start off, I will keep layout simple and then once I have a working game, I can jazz it up. 
